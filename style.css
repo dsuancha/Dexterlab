@@ -1,13 +1,16 @@
 form{
-text-align: center;    
+text-align: center; 
 }
 label{
     text-align: center;
 }
 h1{
     text-align: center;
-    color: rgb(233, 199, 7);
+    color: rgb(129, 110, 2);
 }
 button{
     margin-top: 1%;
+}
+body{
+    background-color: rgb(154, 205, 240);
 }
