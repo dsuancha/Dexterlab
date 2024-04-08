@@ -5,8 +5,9 @@ label{
     text-align: center;
 }
 h1{
-    text-align: center;
-    color: rgb(129, 110, 2);
+    text-align: left;
+    color: rgb(108, 163, 86);
+    
 }
 button{
     margin-top: 1%;
