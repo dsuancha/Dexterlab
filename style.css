@@ -3,10 +3,11 @@ text-align: center;
 }
 label{
     text-align: center;
+    color: rgb(255, 251, 10);
 }
 h1{
     text-align: left;
-    color: rgb(108, 163, 86);
+    color: rgb(255, 251, 10);
     
 }
 button{
@@ -14,6 +15,11 @@ button{
 }
 body{
     background-color: rgb(154, 205, 240);
+    background-image: url('./Dexter3.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+      
 }
 
 input[type="text"],
