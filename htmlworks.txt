@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insert Data</title>
+</head>
+<body>
+    <h1>Insert Data</h1>
+    <form id="dataForm" onsubmit="submitForm(event)">
+        <label for="Namesof">Namesof:</label><br>
+        <input type="text" id="Namesof" name="Namesof"><br>
+        <label for="Age">Age:</label><br>
+        <input type="number" id="Age" name="Age"><br>
+        <label for="Gender">Gender:</label><br>
+        <input type="text" id="Gender" name="Gender"><br>
+        <label for="Occupation">Occupation:</label><br>
+        <input type="text" id="Occupation" name="Occupation"><br>
+        <label for="Special_Ability">Special Ability:</label><br>
+        <input type="text" id="Special_Ability" name="Special_Ability"><br><br>
+        <button type="submit" value="Submit">Submit</button>
+    </form>
+    <p id="message"></p>
+    <script src="main.js"></script>
+</body>
+
+
+
+</html>
+

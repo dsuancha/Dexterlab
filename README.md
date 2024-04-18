@@ -1,2 +1,0 @@
-# Dexterlab
-Technical Fundations
